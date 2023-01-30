@@ -38,7 +38,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>VISHNUMK111</username>
 						<password>Hello@123</password>
-						<applicationName>mulesoft-cicd-sample-29jan</applicationName>
+						<applicationName>mulesoft-cicd-sample-30jan</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<workers>1</workers>
